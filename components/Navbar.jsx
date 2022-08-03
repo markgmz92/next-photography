@@ -43,7 +43,7 @@ const Navbar = () => {
             <Link href='/#gallery'>Gallery</Link>
           </li>
           <li className='p-4'>
-            <Link href='/portfolio'>Work</Link>
+            <Link href='/work'>Work</Link>
           </li>
           <li className='p-4'>
             <Link href='/'>Contact</Link>
@@ -78,7 +78,7 @@ const Navbar = () => {
               <Link href='/#gallery'>Gallery</Link>
             </li>
             <li className='p-4 text-4xl hover:text-gray-500'>
-              <Link href='/portfolio'>Work</Link>
+              <Link href='/work'>Work</Link>
             </li>
             <li className='p-4 text-4xl hover:text-gray-500'>
               <Link href='/'>Contact</Link>
